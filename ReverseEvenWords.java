@@ -27,6 +27,7 @@ public class ReverseEvenWords {
 					rev = rev+reverse[j];
 				}
 				System.out.print(rev +" ");
+				rev = "";
 			}
 		}
 
